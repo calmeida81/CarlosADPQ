@@ -68,13 +68,13 @@ Usecases drive overall requirements. Peer review and external non developer revi
 
 **Sprint 1**
 
-- Define Usecases
+- Define Usecases and Requirements
 - Define Mockups/Wireframes
-- Define Overall Story Requirements
 - Define Tools
 - Define Architecture
 - Define CI Methodology
 - Define Release Methodology
+- Produce Requirements -> Design Specifications -> Testcases Traceabiliy Matrix
 - Dev Code and Tests for **User Login/Profile Usecases****/Requirements**
 - Release Sprint 1 for Internal Review
 - Release Sprint 1 External Review
