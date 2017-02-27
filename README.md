@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/EanML13.gif" height="100" width="200" align="right" />
+<img src="http://i.imgur.com/EanML13.gif" height="120" width="220" align="right" />
 
 # RFI # CDT–ADPQ–0117 
 
