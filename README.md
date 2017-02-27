@@ -31,7 +31,7 @@ Usecases drive overall requirements. Peer review and external non developer revi
 - [Website Mockups  (ADPQ_Mockups-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ_Mockups-SPK.pdf) - Done via  Balsamiq.  
 - [Requirements Management/Traceability (ADPQ_RequirementsToTestTraceabilityMatrix-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ_RequirementsToTestTraceabilityMatrix-SPK.pdf) - Done via PTC Integrity Requirements Manager.   
 - [Configuration Management](https://github.com/SPKlocation) - Done Via Git
-- [Continuous Integration (ADPQ_ContinuousIntegrationModelDescription-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ContinuousIntegrationModelDescription.pdf) - Done via Electric Cloud's ElectricFlow
+- [Continuous Integration (ADPQ_ContinuousIntegrationModelDescription-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ-ContinuousIntegrationModelDescription-SPK.pdf) - Done via Electric Cloud's ElectricFlow
 - [Interactive Testing (ADPQ_SampleTestSession-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ_SampleTestSession-SPK.pdf) - Done via PTC Integrity Test Manager.
 - Unit Testing - Done with Junit
 - Webapp Testing - Done with Mocha
