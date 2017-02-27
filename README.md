@@ -15,7 +15,7 @@ Prototype B Selected: California Emergency Notification Web Portal
  We are Certified Woman-Owned Small Business (WOSB)
 
 
-### Form [B-PQVP-DS-AD-Vendor Profile](https://github.com/SPKlocation/Attachment-B_PQVP-DS-AD-Vendor_Profile-SPK.pdf )
+### Form [B-PQVP-DS-AD-Vendor Profile](https://github.com/calmeida81/CarlosADPQ/blob/master/Attachment-B_PQVP-DS-AD-Vendor_Profile-SPK.pdf )
 
  
 ## Technical Approach
@@ -27,15 +27,15 @@ Usecases drive overall requirements. Peer review and external non developer revi
 
 **Tools Used** 
 
-- [Usecase Development (ADPQ-Use_Case_Specifications-SPK.pdf) ](https://github.com/SPKlocation/ADPQ_Mockups-SPK.pdf) - Done via  Usecase Visual Studio.  
-- [Website Mockups  (ADPQ-Use_Case_Specifications-SPK.pdf) ](https://github.com/SPKlocation/ADPQ-Use_Case_Specifications-SPK.pdf) - Done via  Balsamiq.  
-- [Requirements Management/Traceability (ADPQ_RequirementsToTestTraceabilityMatrix-SPK.pdf) ](https://github.com/SPKlocation/ADPQ-Use_Case_Specifications-SPK.pdf) - Done via PTC Integrity Requirements Manager.   
+- [Usecase Development (ADPQ-Use_Case_Specifications-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ_Mockups-SPK.pdf) - Done via  Usecase Visual Studio.  
+- [Website Mockups  (ADPQ-Use_Case_Specifications-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ-Use_Case_Specifications-SPK.pdf) - Done via  Balsamiq.  
+- [Requirements Management/Traceability (ADPQ_RequirementsToTestTraceabilityMatrix-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ-Use_Case_Specifications-SPK.pdf) - Done via PTC Integrity Requirements Manager.   
 - [Configuration Management](https://github.com/SPKlocation) - Done Via Git
-- [Continuous Integration (ADPQ_ContinuousIntegrationModelDescription-SPK.pdf) ](https://github.com/SPKlocation/ContinuousIntegrationModelDescription.pdf) - Done via Electric Cloud's ElectricFlow
-- [Interactive Testing (ADPQ_SampleTestSession-SPK.pdf) ](https://github.com/SPKlocation/ADPQ-Use_Case_Specifications-SPK.pdf) - Done via PTC Integrity Test Manager.
+- [Continuous Integration (ADPQ_ContinuousIntegrationModelDescription-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ContinuousIntegrationModelDescription.pdf) - Done via Electric Cloud's ElectricFlow
+- [Interactive Testing (ADPQ_SampleTestSession-SPK.pdf) ](https://github.com/calmeida81/CarlosADPQ/blob/master/ADPQ-Use_Case_Specifications-SPK.pdf) - Done via PTC Integrity Test Manager.
 - Unit Testing - Done with Junit
 - Webapp Testing - Done with Mocha
-- [Restful API Documentation (URL Link to Swagger API) ](https://github.com/SPKlocation/api-docs.json) - Done via Swagger
+- [Restful API Documentation (URL Link to Swagger API) ](https://github.com/calmeida81/CarlosADPQ/blob/master/api-docs.json) - Done via Swagger
 - Project Management and Collaboration - Done Via Confluence
 - Bug Tracking - Done Via Jira
 - Deployment - Done Via Docker
