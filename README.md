@@ -1,4 +1,5 @@
-<img src="http://i.imgur.com/EanML13.gif" height="110" width="220" align="right" />
+<a href="http://www.spkaa.com"> 
+<img src="http://i.imgur.com/EanML13.gif" height="110" width="220" align="right" title="www.spkaa.com"/> 
 
 # RFI # CDT–ADPQ–0117 
 
