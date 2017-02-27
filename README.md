@@ -61,7 +61,9 @@ Usecases drive overall requirements. Peer review and external non developer revi
 
 **Core Architectural Flow**
 
-[Description Needed]
+This system consists of two parts. The first is a Node.js webapp written in with Express. The second is an Android app written primarily in Java. When a user opens the webapp, they are presented with a splash screen and asked to either login or sign up. When they do, their data is pulled or pushed from a locally running MongoDB database, using Mongoose. The user is then presented with a dashboard screen, which differs depending on whether they are an admin or a user. As an admin, visualization data is presented to them using the d3 javascript library. They are also able to select which data will be sent and to the users via socket connections. Users are able to select their preferences and alter their profiles, both of which are saved in the local database.
+
+When a user opens the Android app, they are similarly presented with a login splash screen. This portion of the app pulls from the webapp database. At the main dashboard screen, the user is able to view data sent by the webapp and alter their profiles. This data is also sent via socket connections. When users receive notifications, they will see them via sockets and push for the app, email with Nodemailer, and sms with twilio.
 
 
 
