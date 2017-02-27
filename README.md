@@ -6,7 +6,7 @@
 
 Prototype B Selected: California Emergency Notification Web Portal 
 
-###URL:  [SPK Submission Prototype](https://github.com/SPKlocation) 
+###URL:  [SPK Submission Prototype](https://github.com/calmeida81/CarlosADPQ/blob/master/Attachment-B_PQVP-DS-AD-Vendor_Profile-SPK.pdf) 
 
 
 ## About SPK and Associates
