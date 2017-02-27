@@ -39,7 +39,7 @@ Usecases drive overall requirements. Peer review and external non developer revi
 - Project Management and Collaboration - Done Via Confluence
 - Bug Tracking - Done Via Jira
 - Deployment - Done Via Docker
-- Android Development - Android Studio SDK environment
+- Android Development - Done Via Android Studio SDK environment
   
 **Project Architectural Elements Used**
 
