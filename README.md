@@ -126,4 +126,4 @@ When a user opens the Android app, they are similarly presented with a login spl
 ## License
 
 
-This prototype is intended to a be *sample* of an Agile Development project.  Requirements/Features/Usecases and Test Coverage is not comprehensive.  This prototype not intended for production.
+This prototype is intended to a be *sample* of an Agile Development project.  Requirements/Features/Usecases and Test Coverage are not comprehensive.  This prototype not intended for production.
