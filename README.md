@@ -13,7 +13,7 @@ Prototype B Selected: California Emergency Notification Web Portal
 ## About SPK and Associates
  Founded in 1997 with corporate office in Los Gatos, CA, SPK is Technology Services Company completely focused on fulfilling the specialized needs of R&D or Engineering groups.  Rather than providing generic IT services like many other IT Services companies, we decided that we would become absolutely great at understanding the business of R&D.  Then, we translate that into tech services designed to speed up product design and release while improving your product quality.    We operate in highly regulated verticals such as Medical Device, Financial and Automotive.  We specialized in Agile development techniques while maintaining rigorous discipline required for auditors and regulators.
 
- We are Certified Woman-Owned Business Enterprize (WBENC)
+ We are a Certified Woman-Owned Business Enterprize (WBENC)
 <img src="http://i.imgur.com/W9rZqZX.jpg" height="100" width="200" align="right" />
 
 ### Attachment [B-PQVP-DS-AD-Vendor Profile](https://github.com/calmeida81/CarlosADPQ/blob/master/Attachment-B_PQVP-DS-AD-Vendor_Profile-SPK.pdf )
